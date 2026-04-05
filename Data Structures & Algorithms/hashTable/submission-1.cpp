@@ -1,3 +1,4 @@
+// open addressing version (slightly more difficult than chaining version)
 class HashTable {
     int size;
     int cap;

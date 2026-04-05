@@ -1,3 +1,4 @@
+// chaining version, using linked list
 class Node {
 public:
     int key;
